@@ -8,7 +8,7 @@ from Ankit.modules.helper_funcs.chat_status import (
     dev_plus,
     user_admin,
 )
-from Ankot.modules.sql import cleaner_sql as sql
+from Ankit.modules.sql import cleaner_sql as sql
 from telegram import ParseMode, Update
 from telegram.ext import (
     CallbackContext,
